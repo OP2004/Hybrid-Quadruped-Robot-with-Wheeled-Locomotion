@@ -143,6 +143,3 @@ The system enhances versatility while maintaining mechanical stability and energ
 - Energy optimization algorithms  
 - Mobile app-based remote control  
 - Fully autonomous hybrid robotic platform  
-## 📁 Repository Structure
-
----
