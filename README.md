@@ -49,7 +49,7 @@ The hybrid quadruped robot consists of:
 
 ---
 
-## ⚙️ Working Principle
+## Working Principle
 
 The robot operates in three locomotion modes:
 
